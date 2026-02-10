@@ -1,0 +1,9 @@
+Cleaning Report:
+- Total Records Processed: 30
+- Duplicates Removed: 0 (No duplicates found based on emp_id).
+- Nulls Replaced: 6 (Replaced with 'Unknown').
+- Bad Records Corrected: 6 (Handled missing 'first' or 'last' names).
+
+Summary:
+- Cleaned data has been successfully processed and saved.
+- All duplicates, nulls, and bad records have been addressed.
